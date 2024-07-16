@@ -7,6 +7,3 @@
     <img align="center" alt="Matheusxr77-Intellij" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
     <img align="center" alt="Matheusxr77-Intellij" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
-
-## Objetivo
-API criada como projeto final do Bootcamp Santander - Java.
